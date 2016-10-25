@@ -1,6 +1,6 @@
 {
   "name": "linter-styled-components",
-  "main": "./lib/linter-styled-components",
+  "main": "./lib/main",
   "version": "0.0.0",
   "description": "Atom Linter plugin for styled-components",
   "keywords": [],
