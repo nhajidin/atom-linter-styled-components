@@ -2,12 +2,9 @@
   "name": "linter-styled-components",
   "main": "./lib/linter-styled-components",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Atom Linter plugin for styled-components",
   "keywords": [],
-  "activationCommands": {
-    "atom-workspace": "linter-styled-components:toggle"
-  },
-  "repository": "https://github.com/atom/linter-styled-components",
+  "repository": "https://github.com/nhajidin/linter-styled-components",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
